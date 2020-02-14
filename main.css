@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+
+}
+.logo {
+    padding: 1em;
+}
+.hero {
+    width: 100%;
+}
+.text {
+    text-align: center;
+}
+.color {
+    color: palevioletred;
+}
+p {
+    color: palevioletred;
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+.mail {
+    border-radius: 10vh;
+    padding-left: 5vh;
+    margin-left: 3em;
+    margin-top: 2em;
+}
+.button {
+    padding-left: 1em;
+}
